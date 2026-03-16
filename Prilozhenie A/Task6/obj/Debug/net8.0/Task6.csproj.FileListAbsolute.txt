@@ -1,0 +1,14 @@
+D:\C# labs\Prilozhenie A\Task6\bin\Debug\net8.0\Task6.exe
+D:\C# labs\Prilozhenie A\Task6\bin\Debug\net8.0\Task6.deps.json
+D:\C# labs\Prilozhenie A\Task6\bin\Debug\net8.0\Task6.runtimeconfig.json
+D:\C# labs\Prilozhenie A\Task6\bin\Debug\net8.0\Task6.dll
+D:\C# labs\Prilozhenie A\Task6\bin\Debug\net8.0\Task6.pdb
+D:\C# labs\Prilozhenie A\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# labs\Prilozhenie A\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+D:\C# labs\Prilozhenie A\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+D:\C# labs\Prilozhenie A\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
+D:\C# labs\Prilozhenie A\Task6\obj\Debug\net8.0\Task6.dll
+D:\C# labs\Prilozhenie A\Task6\obj\Debug\net8.0\refint\Task6.dll
+D:\C# labs\Prilozhenie A\Task6\obj\Debug\net8.0\Task6.pdb
+D:\C# labs\Prilozhenie A\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
+D:\C# labs\Prilozhenie A\Task6\obj\Debug\net8.0\ref\Task6.dll
