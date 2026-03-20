@@ -1,0 +1,14 @@
+D:\Задания практика (КПиЯП)\Tema4\Task8\obj\Debug\net8.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задания практика (КПиЯП)\Tema4\Task8\obj\Debug\net8.0\Task8.AssemblyInfoInputs.cache
+D:\Задания практика (КПиЯП)\Tema4\Task8\obj\Debug\net8.0\Task8.AssemblyInfo.cs
+D:\Задания практика (КПиЯП)\Tema4\Task8\obj\Debug\net8.0\Task8.csproj.CoreCompileInputs.cache
+D:\Задания практика (КПиЯП)\Tema4\Task8\bin\Debug\net8.0\Task8.exe
+D:\Задания практика (КПиЯП)\Tema4\Task8\bin\Debug\net8.0\Task8.deps.json
+D:\Задания практика (КПиЯП)\Tema4\Task8\bin\Debug\net8.0\Task8.runtimeconfig.json
+D:\Задания практика (КПиЯП)\Tema4\Task8\bin\Debug\net8.0\Task8.dll
+D:\Задания практика (КПиЯП)\Tema4\Task8\bin\Debug\net8.0\Task8.pdb
+D:\Задания практика (КПиЯП)\Tema4\Task8\obj\Debug\net8.0\Task8.dll
+D:\Задания практика (КПиЯП)\Tema4\Task8\obj\Debug\net8.0\refint\Task8.dll
+D:\Задания практика (КПиЯП)\Tema4\Task8\obj\Debug\net8.0\Task8.pdb
+D:\Задания практика (КПиЯП)\Tema4\Task8\obj\Debug\net8.0\Task8.genruntimeconfig.cache
+D:\Задания практика (КПиЯП)\Tema4\Task8\obj\Debug\net8.0\ref\Task8.dll
