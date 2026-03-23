@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A25F13F5-7BF3-4C98-825B-D147713C56CC}|Task3\\Task3.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task3\\servershutdownhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25F13F5-7BF3-4C98-825B-D147713C56CC}|Task3\\Task3.csproj|solutionrelative:task3\\servershutdownhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25F13F5-7BF3-4C98-825B-D147713C56CC}|Task3\\Task3.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25F13F5-7BF3-4C98-825B-D147713C56CC}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0394998-E3A8-4881-9291-99AE6A2999F2}|Task1\\Task1.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task1\\binaryconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0394998-E3A8-4881-9291-99AE6A2999F2}|Task1\\Task1.csproj|solutionrelative:task1\\binaryconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0394998-E3A8-4881-9291-99AE6A2999F2}|Task1\\Task1.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task1\\hexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0394998-E3A8-4881-9291-99AE6A2999F2}|Task1\\Task1.csproj|solutionrelative:task1\\hexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0394998-E3A8-4881-9291-99AE6A2999F2}|Task1\\Task1.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task1\\numberconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0394998-E3A8-4881-9291-99AE6A2999F2}|Task1\\Task1.csproj|solutionrelative:task1\\numberconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0394998-E3A8-4881-9291-99AE6A2999F2}|Task1\\Task1.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0394998-E3A8-4881-9291-99AE6A2999F2}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50290BB0-6B69-4EEE-8877-F714ADE70BA2}|Task4\\Task4.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50290BB0-6B69-4EEE-8877-F714ADE70BA2}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50290BB0-6B69-4EEE-8877-F714ADE70BA2}|Task4\\Task4.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task4\\itemmovedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50290BB0-6B69-4EEE-8877-F714ADE70BA2}|Task4\\Task4.csproj|solutionrelative:task4\\itemmovedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50290BB0-6B69-4EEE-8877-F714ADE70BA2}|Task4\\Task4.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task4\\inventorytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50290BB0-6B69-4EEE-8877-F714ADE70BA2}|Task4\\Task4.csproj|solutionrelative:task4\\inventorytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50290BB0-6B69-4EEE-8877-F714ADE70BA2}|Task4\\Task4.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task4\\securitysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50290BB0-6B69-4EEE-8877-F714ADE70BA2}|Task4\\Task4.csproj|solutionrelative:task4\\securitysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50290BB0-6B69-4EEE-8877-F714ADE70BA2}|Task4\\Task4.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task4\\inventorysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50290BB0-6B69-4EEE-8877-F714ADE70BA2}|Task4\\Task4.csproj|solutionrelative:task4\\inventorysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50290BB0-6B69-4EEE-8877-F714ADE70BA2}|Task4\\Task4.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task4\\warehousemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50290BB0-6B69-4EEE-8877-F714ADE70BA2}|Task4\\Task4.csproj|solutionrelative:task4\\warehousemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25F13F5-7BF3-4C98-825B-D147713C56CC}|Task3\\Task3.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task3\\alertsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25F13F5-7BF3-4C98-825B-D147713C56CC}|Task3\\Task3.csproj|solutionrelative:task3\\alertsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25F13F5-7BF3-4C98-825B-D147713C56CC}|Task3\\Task3.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task3\\backupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25F13F5-7BF3-4C98-825B-D147713C56CC}|Task3\\Task3.csproj|solutionrelative:task3\\backupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25F13F5-7BF3-4C98-825B-D147713C56CC}|Task3\\Task3.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task3\\servershutdownmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25F13F5-7BF3-4C98-825B-D147713C56CC}|Task3\\Task3.csproj|solutionrelative:task3\\servershutdownmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE0A142-30DD-4AF9-B931-D55D71AEFD32}|Task2\\Task2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task2\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE0A142-30DD-4AF9-B931-D55D71AEFD32}|Task2\\Task2.csproj|solutionrelative:task2\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE0A142-30DD-4AF9-B931-D55D71AEFD32}|Task2\\Task2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE0A142-30DD-4AF9-B931-D55D71AEFD32}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE0A142-30DD-4AF9-B931-D55D71AEFD32}|Task2\\Task2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema6\\task2\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE0A142-30DD-4AF9-B931-D55D71AEFD32}|Task2\\Task2.csproj|solutionrelative:task2\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemMovedEventArgs.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task4\\ItemMovedEventArgs.cs",
+              "RelativeDocumentMoniker": "Task4\\ItemMovedEventArgs.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task4\\ItemMovedEventArgs.cs",
+              "RelativeToolTip": "Task4\\ItemMovedEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:10:32.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryTracker.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task4\\InventoryTracker.cs",
+              "RelativeDocumentMoniker": "Task4\\InventoryTracker.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task4\\InventoryTracker.cs",
+              "RelativeToolTip": "Task4\\InventoryTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:10:01.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SecuritySystem.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task4\\SecuritySystem.cs",
+              "RelativeDocumentMoniker": "Task4\\SecuritySystem.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task4\\SecuritySystem.cs",
+              "RelativeToolTip": "Task4\\SecuritySystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:09:45.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventorySystem.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task4\\InventorySystem.cs",
+              "RelativeDocumentMoniker": "Task4\\InventorySystem.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task4\\InventorySystem.cs",
+              "RelativeToolTip": "Task4\\InventorySystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:09:25.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WarehouseMonitor.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task4\\WarehouseMonitor.cs",
+              "RelativeDocumentMoniker": "Task4\\WarehouseMonitor.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task4\\WarehouseMonitor.cs",
+              "RelativeToolTip": "Task4\\WarehouseMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:09:00.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:53:20.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AlertSystem.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task3\\AlertSystem.cs",
+              "RelativeDocumentMoniker": "Task3\\AlertSystem.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task3\\AlertSystem.cs",
+              "RelativeToolTip": "Task3\\AlertSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:47:15.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BackupService.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task3\\BackupService.cs",
+              "RelativeDocumentMoniker": "Task3\\BackupService.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task3\\BackupService.cs",
+              "RelativeToolTip": "Task3\\BackupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:46:57.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServerShutdownManager.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task3\\ServerShutdownManager.cs",
+              "RelativeDocumentMoniker": "Task3\\ServerShutdownManager.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task3\\ServerShutdownManager.cs",
+              "RelativeToolTip": "Task3\\ServerShutdownManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:46:36.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerShutdownHandler.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task3\\ServerShutdownHandler.cs",
+              "RelativeDocumentMoniker": "Task3\\ServerShutdownHandler.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task3\\ServerShutdownHandler.cs",
+              "RelativeToolTip": "Task3\\ServerShutdownHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:46:21.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:35:42.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task2\\UserManager.cs",
+              "RelativeDocumentMoniker": "Task2\\UserManager.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task2\\UserManager.cs",
+              "RelativeToolTip": "Task2\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:33:31.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserAction.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task2\\UserAction.cs",
+              "RelativeDocumentMoniker": "Task2\\UserAction.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task2\\UserAction.cs",
+              "RelativeToolTip": "Task2\\UserAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:33:19.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:28:20.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HexConverter.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task1\\HexConverter.cs",
+              "RelativeDocumentMoniker": "Task1\\HexConverter.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task1\\HexConverter.cs",
+              "RelativeToolTip": "Task1\\HexConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:25:37.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinaryConverter.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task1\\BinaryConverter.cs",
+              "RelativeDocumentMoniker": "Task1\\BinaryConverter.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task1\\BinaryConverter.cs",
+              "RelativeToolTip": "Task1\\BinaryConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:25:24.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumberConverter.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task1\\NumberConverter.cs",
+              "RelativeDocumentMoniker": "Task1\\NumberConverter.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task1\\NumberConverter.cs",
+              "RelativeToolTip": "Task1\\NumberConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:25:04.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema6\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:24:37.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
