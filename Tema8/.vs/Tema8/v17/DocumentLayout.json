@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3F4A6B-7299-4599-AC5B-F94E392753AC}|Task1\\Task1.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema8\\task1\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3F4A6B-7299-4599-AC5B-F94E392753AC}|Task1\\Task1.csproj|solutionrelative:task1\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3F4A6B-7299-4599-AC5B-F94E392753AC}|Task1\\Task1.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema8\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3F4A6B-7299-4599-AC5B-F94E392753AC}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5205FFE3-7547-4145-9A81-23523A3C5EC6}|Task2\\Task2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema8\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5205FFE3-7547-4145-9A81-23523A3C5EC6}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3F4A6B-7299-4599-AC5B-F94E392753AC}|Task1\\Task1.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema8\\task1\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3F4A6B-7299-4599-AC5B-F94E392753AC}|Task1\\Task1.csproj|solutionrelative:task1\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66AE88E-3FFB-4609-A27A-373D00129718}|Task3\\Task3.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema8\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66AE88E-3FFB-4609-A27A-373D00129718}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66AE88E-3FFB-4609-A27A-373D00129718}|Task3\\Task3.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema8\\task3\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66AE88E-3FFB-4609-A27A-373D00129718}|Task3\\Task3.csproj|solutionrelative:task3\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66AE88E-3FFB-4609-A27A-373D00129718}|Task3\\Task3.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema8\\task3\\taskstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66AE88E-3FFB-4609-A27A-373D00129718}|Task3\\Task3.csproj|solutionrelative:task3\\taskstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66AE88E-3FFB-4609-A27A-373D00129718}|Task3\\Task3.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema8\\task3\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66AE88E-3FFB-4609-A27A-373D00129718}|Task3\\Task3.csproj|solutionrelative:task3\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66AE88E-3FFB-4609-A27A-373D00129718}|Task3\\Task3.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema8\\task3\\itaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66AE88E-3FFB-4609-A27A-373D00129718}|Task3\\Task3.csproj|solutionrelative:task3\\itaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5205FFE3-7547-4145-9A81-23523A3C5EC6}|Task2\\Task2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema8\\task2\\prioritytaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5205FFE3-7547-4145-9A81-23523A3C5EC6}|Task2\\Task2.csproj|solutionrelative:task2\\prioritytaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5205FFE3-7547-4145-9A81-23523A3C5EC6}|Task2\\Task2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema8\\task2\\mypriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5205FFE3-7547-4145-9A81-23523A3C5EC6}|Task2\\Task2.csproj|solutionrelative:task2\\mypriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5205FFE3-7547-4145-9A81-23523A3C5EC6}|Task2\\Task2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema8\\task2\\priorityitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5205FFE3-7547-4145-9A81-23523A3C5EC6}|Task2\\Task2.csproj|solutionrelative:task2\\priorityitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task3\\TaskManager.cs",
+              "RelativeDocumentMoniker": "Task3\\TaskManager.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task3\\TaskManager.cs",
+              "RelativeToolTip": "Task3\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:40:37.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskStorage.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task3\\TaskStorage.cs",
+              "RelativeDocumentMoniker": "Task3\\TaskStorage.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task3\\TaskStorage.cs",
+              "RelativeToolTip": "Task3\\TaskStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:40:25.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task3\\Task.cs",
+              "RelativeDocumentMoniker": "Task3\\Task.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task3\\Task.cs",
+              "RelativeToolTip": "Task3\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:40:12.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaskManager.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task3\\ITaskManager.cs",
+              "RelativeDocumentMoniker": "Task3\\ITaskManager.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task3\\ITaskManager.cs",
+              "RelativeToolTip": "Task3\\ITaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:39:58.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:35:37.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PriorityTaskManager.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task2\\PriorityTaskManager.cs",
+              "RelativeDocumentMoniker": "Task2\\PriorityTaskManager.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task2\\PriorityTaskManager.cs",
+              "RelativeToolTip": "Task2\\PriorityTaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:34:12.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyPriorityQueue.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task2\\MyPriorityQueue.cs",
+              "RelativeDocumentMoniker": "Task2\\MyPriorityQueue.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task2\\MyPriorityQueue.cs",
+              "RelativeToolTip": "Task2\\MyPriorityQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:33:58.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PriorityItem.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task2\\PriorityItem.cs",
+              "RelativeDocumentMoniker": "Task2\\PriorityItem.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task2\\PriorityItem.cs",
+              "RelativeToolTip": "Task2\\PriorityItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:33:44.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:28:06.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task1\\Logger.cs",
+              "RelativeDocumentMoniker": "Task1\\Logger.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task1\\Logger.cs",
+              "RelativeToolTip": "Task1\\Logger.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:25:18.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task1\\LogEntry.cs",
+              "RelativeDocumentMoniker": "Task1\\LogEntry.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task1\\LogEntry.cs",
+              "RelativeToolTip": "Task1\\LogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:24:52.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema8\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T19:24:27.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
