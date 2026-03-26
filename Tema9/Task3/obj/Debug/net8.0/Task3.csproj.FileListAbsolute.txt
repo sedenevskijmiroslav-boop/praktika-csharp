@@ -1,0 +1,14 @@
+D:\Задания практика (КПиЯП)\Tema9\Task3\bin\Debug\net8.0\Task3.exe
+D:\Задания практика (КПиЯП)\Tema9\Task3\bin\Debug\net8.0\Task3.deps.json
+D:\Задания практика (КПиЯП)\Tema9\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+D:\Задания практика (КПиЯП)\Tema9\Task3\bin\Debug\net8.0\Task3.dll
+D:\Задания практика (КПиЯП)\Tema9\Task3\bin\Debug\net8.0\Task3.pdb
+D:\Задания практика (КПиЯП)\Tema9\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задания практика (КПиЯП)\Tema9\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+D:\Задания практика (КПиЯП)\Tema9\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+D:\Задания практика (КПиЯП)\Tema9\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+D:\Задания практика (КПиЯП)\Tema9\Task3\obj\Debug\net8.0\Task3.dll
+D:\Задания практика (КПиЯП)\Tema9\Task3\obj\Debug\net8.0\refint\Task3.dll
+D:\Задания практика (КПиЯП)\Tema9\Task3\obj\Debug\net8.0\Task3.pdb
+D:\Задания практика (КПиЯП)\Tema9\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+D:\Задания практика (КПиЯП)\Tema9\Task3\obj\Debug\net8.0\ref\Task3.dll
