@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema13\\financeapp2\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|solutionrelative:financeapp2\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema13\\financeapp2\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|solutionrelative:financeapp2\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema13\\financeapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|solutionrelative:financeapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema13\\financeapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|solutionrelative:financeapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema13\\financeapp2\\viewmodels\\mainviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|solutionrelative:financeapp2\\viewmodels\\mainviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema13\\financeapp2\\transactiondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|solutionrelative:financeapp2\\transactiondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|d:\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u043A\u043F\u0438\u044F\u043F)\\tema13\\financeapp2\\transactiondialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EAB5E9-4193-44A7-A753-64314EE1DC6D}|FinanceApp2\\FinanceApp2.csproj|solutionrelative:financeapp2\\transactiondialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionDialog.xaml.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\TransactionDialog.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceApp2\\TransactionDialog.xaml.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\TransactionDialog.xaml.cs",
+              "RelativeToolTip": "FinanceApp2\\TransactionDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T19:17:51.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionDialog.xaml",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\TransactionDialog.xaml",
+              "RelativeDocumentMoniker": "FinanceApp2\\TransactionDialog.xaml",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\TransactionDialog.xaml",
+              "RelativeToolTip": "FinanceApp2\\TransactionDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-31T19:17:13.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModels.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\ViewModels\\MainViewModels.cs",
+              "RelativeDocumentMoniker": "FinanceApp2\\ViewModels\\MainViewModels.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\ViewModels\\MainViewModels.cs",
+              "RelativeToolTip": "FinanceApp2\\ViewModels\\MainViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T18:57:43.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "FinanceApp2\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "FinanceApp2\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T18:34:15.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "FinanceApp2\\Models\\Transaction.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\Models\\Transaction.cs",
+              "RelativeToolTip": "FinanceApp2\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T18:33:29.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FinanceApp2\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\MainWindow.xaml",
+              "RelativeToolTip": "FinanceApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-31T18:32:03.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceApp2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 (\u041A\u041F\u0438\u042F\u041F)\\Tema13\\FinanceApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FinanceApp2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T18:32:00.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

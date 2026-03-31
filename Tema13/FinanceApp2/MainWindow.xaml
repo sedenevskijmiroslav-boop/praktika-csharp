@@ -1,0 +1,60 @@
+﻿<Window x:Class="FinanceApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:FinanceApp2.ViewModels"
+        Title="Учет финансов" Height="500" Width="800"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.DataContext>
+       <vm:MainViewModel/>
+    </Window.DataContext>
+
+    <Window.InputBindings>
+        <KeyBinding Key="N" Modifiers="Ctrl" Command="{Binding AddTransactionCommand}"/>
+        <KeyBinding Key="E" Modifiers="Ctrl" Command="{Binding EditTransactionCommand}"/>
+        <KeyBinding Key="Delete" Command="{Binding DeleteTransactionCommand}"/>
+    </Window.InputBindings>
+
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_Файл">
+                <MenuItem Header="Выход" Click="Exit_Click"/>
+            </MenuItem>
+
+            <MenuItem Header="_Транзакции">
+                <MenuItem Header="Добавить транзакцию" Command="{Binding AddTransactionCommand}" InputGestureText="Ctrl+N"/>
+                <MenuItem Header="Редактировать транзакцию" Command="{Binding EditTransactionCommand}" InputGestureText="Ctrl+E"/>
+                <MenuItem Header="Удалить транзакцию" Command="{Binding DeleteTransactionCommand}" InputGestureText="Del"/>
+            </MenuItem>
+
+            <MenuItem Header="_Отчёты">
+                <MenuItem Header="Общий отчет" Click="Report_Click"/>
+                <MenuItem Header="Отчет по типам" Click="ReportByType_Click"/>
+            </MenuItem>
+
+            <MenuItem Header="_Настройки">
+                <MenuItem Header="О программе" Click="About_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <ToolBar DockPanel.Dock="Top">
+            <Button Content="Добавить транзакцию" Command="{Binding AddTransactionCommand}" ToolTip="Ctrl+N"/>
+            <Button Content="Редактировать транзакцию" Command="{Binding EditTransactionCommand}" ToolTip="Ctrl+E"/>
+            <Button Content="Удалить транзакцию" Command="{Binding DeleteTransactionCommand}" ToolTip="Del"/>
+        </ToolBar>
+
+        <ListView ItemsSource="{Binding Transactions}" 
+                  SelectedItem="{Binding SelectedTransaction, Mode=TwoWay}"
+                  Margin="10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" Width="50" DisplayMemberBinding="{Binding Id}"/>
+                    <GridViewColumn Header="Дата" Width="100" DisplayMemberBinding="{Binding Date, StringFormat=dd.MM.yyyy}"/>
+                    <GridViewColumn Header="Тип" Width="80" DisplayMemberBinding="{Binding Type}"/>
+                    <GridViewColumn Header="Сумма" Width="100" DisplayMemberBinding="{Binding Amount, StringFormat=C}"/>
+                    <GridViewColumn Header="Описание" Width="300" DisplayMemberBinding="{Binding Description}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </DockPanel>
+</Window>
