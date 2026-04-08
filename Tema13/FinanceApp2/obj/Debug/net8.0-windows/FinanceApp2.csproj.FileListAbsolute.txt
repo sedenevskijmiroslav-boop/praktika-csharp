@@ -21,3 +21,27 @@ D:\Задания практика (КПиЯП)\Tema13\FinanceApp2\obj\Debug\net
 D:\Задания практика (КПиЯП)\Tema13\FinanceApp2\obj\Debug\net8.0-windows\FinanceApp2.pdb
 D:\Задания практика (КПиЯП)\Tema13\FinanceApp2\obj\Debug\net8.0-windows\FinanceApp2.genruntimeconfig.cache
 D:\Задания практика (КПиЯП)\Tema13\FinanceApp2\obj\Debug\net8.0-windows\ref\FinanceApp2.dll
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\bin\Debug\net8.0-windows\FinanceApp2.exe
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\bin\Debug\net8.0-windows\FinanceApp2.deps.json
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\bin\Debug\net8.0-windows\FinanceApp2.runtimeconfig.json
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\bin\Debug\net8.0-windows\FinanceApp2.dll
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\bin\Debug\net8.0-windows\FinanceApp2.pdb
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\TransactionDialog.baml
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\TransactionDialog.g.cs
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\FinanceApp2_MarkupCompile.cache
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\FinanceApp2_MarkupCompile.lref
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\FinanceApp2.g.resources
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\FinanceApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\FinanceApp2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\FinanceApp2.AssemblyInfo.cs
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\FinanceApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\FinanceApp2.sourcelink.json
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\FinanceApp2.dll
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\refint\FinanceApp2.dll
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\FinanceApp2.pdb
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\FinanceApp2.genruntimeconfig.cache
+C:\Users\User\Desktop\practica\Tema13\FinanceApp2\obj\Debug\net8.0-windows\ref\FinanceApp2.dll
