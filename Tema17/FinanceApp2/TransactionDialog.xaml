@@ -1,0 +1,42 @@
+﻿<Window x:Class="FinanceApp2.TransactionDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Транзакция" Height="350" Width="400"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="Сумма:"/>
+        <TextBox Grid.Row="0" Grid.Column="1" Margin="5" Name="txtAmount"/>
+
+        <Label Grid.Row="1" Grid.Column="0" Content="Тип:"/>
+        <ComboBox Grid.Row="1" Grid.Column="1" Margin="5" Name="cmbType">
+            <ComboBoxItem Content="Доход"/>
+            <ComboBoxItem Content="Расход"/>
+        </ComboBox>
+
+        <Label Grid.Row="2" Grid.Column="0" Content="Дата:"/>
+        <DatePicker Grid.Row="2" Grid.Column="1" Margin="5" Name="dpDate"/>
+
+        <Label Grid.Row="3" Grid.Column="0" Content="Описание:"/>
+        <TextBox Grid.Row="3" Grid.Column="1" Margin="5" Name="txtDescription" Height="60" TextWrapping="Wrap"/>
+
+        <StackPanel Grid.Row="4" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
+            <Button Content="OK" Width="80" Margin="5" Click="OkButton_Click" IsDefault="True"/>
+            <Button Content="Отмена" Width="80" Margin="5" Click="CancelButton_Click" IsCancel="True"/>
+        </StackPanel>
+    </Grid>
+</Window>
