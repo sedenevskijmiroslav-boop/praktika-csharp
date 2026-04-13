@@ -1,0 +1,94 @@
+﻿@model ShoppingListApp.Models.ShoppingItemViewModel
+
+@{
+    ViewData["Title"] = "Список покупок";
+}
+
+<h2>🛒 Список покупок</h2>
+
+@if (!string.IsNullOrWhiteSpace(ViewBag.Message))
+{
+    <div style="margin-bottom: 15px; padding: 10px; background-color: #e8f5e9; border-left: 4px solid #4caf50;">
+        @ViewBag.Message
+    </div>
+}
+
+<div style="margin-bottom: 20px; padding: 15px; background-color: #f0f0f0; border-radius: 5px;">
+    <h3>➕ Добавить товар</h3>
+    <form asp-action="Add" method="post">
+        <div asp-validation-summary="ModelOnly" style="color: #b71c1c; margin-bottom: 10px;"></div>
+        <div style="display: flex; gap: 10px; align-items: center;">
+            <div>
+                <label>Название:</label>
+                <input asp-for="Name" style="width: 150px;" />
+                <span asp-validation-for="Name" style="display: block; color: #b71c1c;"></span>
+            </div>
+            <div>
+                <label>Количество:</label>
+                <input asp-for="Quantity" type="number" min="1" max="100" style="width: 80px;" />
+                <span asp-validation-for="Quantity" style="display: block; color: #b71c1c;"></span>
+            </div>
+            <div>
+                <button type="submit" style="padding: 5px 15px;">➕ Добавить</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div style="display: flex; gap: 30px; flex-wrap: wrap;">
+
+    <div style="flex: 1; min-width: 250px;">
+        <h3>📋 Невыполненные покупки</h3>
+        @if (ViewBag.NotBought != null && ViewBag.NotBought.Count > 0)
+        {
+            <ul style="list-style: none; padding: 0;">
+                @foreach (var item in ViewBag.NotBought)
+                {
+                    <li style="margin: 10px 0; padding: 10px; background-color: #fff3e0; border-left: 4px solid #ff9800;">
+                        <strong>@item.Name</strong> — @item.Quantity шт.
+                        <div style="margin-top: 5px;">
+                            <a href="@Url.Action("Mark", new { id = item.Id })"
+                               style="color: green; text-decoration: none; margin-right: 10px;">
+                                ✅ Отметить как купленное
+                            </a>
+                            <a href="@Url.Action("Delete", new { id = item.Id })"
+                               style="color: red; text-decoration: none;"
+                               onclick="return confirm('Удалить товар?')">
+                                🗑️ Удалить
+                            </a>
+                        </div>
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p style="color: gray;">✨ Все покупки выполнены!</p>
+        }
+    </div>
+
+    <div style="flex: 1; min-width: 250px;">
+        <h3>✅ Выполненные покупки</h3>
+        @if (ViewBag.Bought != null && ViewBag.Bought.Count > 0)
+        {
+            <ul style="list-style: none; padding: 0;">
+                @foreach (var item in ViewBag.Bought)
+                {
+                    <li style="margin: 10px 0; padding: 10px; background-color: #e8f5e9; border-left: 4px solid #4caf50; text-decoration: line-through; color: gray;">
+                        <strong>@item.Name</strong> — @item.Quantity шт.
+                        <div style="margin-top: 5px;">
+                            <a href="@Url.Action("Unmark", new { id = item.Id })"
+                               style="color: #ff9800; text-decoration: none;">
+                                ↩️ Вернуть в список
+                            </a>
+                        </div>
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p style="color: gray;">📭 Нет выполненных покупок</p>
+        }
+    </div>
+</div>
