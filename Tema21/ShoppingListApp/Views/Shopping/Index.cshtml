@@ -1,0 +1,83 @@
+﻿@model ShoppingListApp.Models.ShoppingItemViewModel
+
+@{
+    ViewData["Title"] = "Список покупок";
+    var items = ViewBag.Items as IReadOnlyList<ShoppingListApp.Models.ShoppingItem> ?? new List<ShoppingListApp.Models.ShoppingItem>();
+}
+
+<h2>🛒 Список покупок</h2>
+
+@if (!string.IsNullOrWhiteSpace(ViewBag.Message))
+{
+    <div style="margin-bottom: 15px; padding: 10px; background-color: #e8f5e9; border-left: 4px solid #4caf50;">
+        @ViewBag.Message
+    </div>
+}
+
+<div style="margin-bottom: 20px; padding: 15px; background-color: #f0f0f0; border-radius: 5px;">
+    <h3>➕ Добавить товар</h3>
+    <form asp-action="Add" method="post">
+        <div asp-validation-summary="ModelOnly" style="color: #b71c1c; margin-bottom: 10px;"></div>
+        <div style="display: flex; gap: 10px; align-items: center;">
+            <div>
+                <label>Название:</label>
+                <input asp-for="Name" style="width: 150px;" />
+                <span asp-validation-for="Name" style="display: block; color: #b71c1c;"></span>
+            </div>
+            <div>
+                <label>Количество:</label>
+                <input asp-for="Quantity" type="number" min="1" max="100" style="width: 80px;" />
+                <span asp-validation-for="Quantity" style="display: block; color: #b71c1c;"></span>
+            </div>
+            <div>
+                <button type="submit" style="padding: 5px 15px;">➕ Добавить</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div style="margin-top: 10px;">
+    <h3>📋 Список</h3>
+
+    @if (items.Count > 0)
+    {
+        <ul style="list-style: none; padding: 0;">
+            @foreach (var item in items)
+            {
+                var cardStyle = item.IsBought
+                    ? "margin: 10px 0; padding: 10px; background-color: #e8f5e9; border-left: 4px solid #4caf50;"
+                    : "margin: 10px 0; padding: 10px; background-color: #fff3e0; border-left: 4px solid #ff9800;";
+
+                <li style="@cardStyle">
+                    <div style="display: flex; gap: 12px; align-items: center; justify-content: space-between;">
+                        <div style="display: flex; gap: 10px; align-items: center;">
+                            <form asp-action="ToggleBought" method="post" style="margin: 0;">
+                                @Html.AntiForgeryToken()
+                                <input type="hidden" name="id" value="@item.Id" />
+                                <input type="checkbox"
+                                       name="isBought"
+                                       value="true"
+                                       @(item.IsBought ? "checked" : "")
+                                       onchange="this.form.submit()" />
+                            </form>
+
+                            <div style="@(item.IsBought ? "text-decoration: line-through; color: gray;" : "")">
+                                <strong>@item.Name</strong> — @item.Quantity шт.
+                            </div>
+                        </div>
+
+                        <form asp-action="Delete" method="post" style="margin: 0;" onsubmit="return confirm('Удалить товар?')">
+                            @Html.AntiForgeryToken()
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" style="padding: 4px 10px; color: #b71c1c;">🗑️ Удалить</button>
+                        </form>
+                    </div>
+                </li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p style="color: gray;">📭 Список пуст</p>
+    }
+</div>

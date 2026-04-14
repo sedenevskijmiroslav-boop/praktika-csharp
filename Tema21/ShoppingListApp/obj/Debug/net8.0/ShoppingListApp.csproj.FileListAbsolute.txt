@@ -1,0 +1,208 @@
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\bin\Debug\net8.0\appsettings.json
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.staticwebassets.endpoints.json
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.exe
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.deps.json
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.runtimeconfig.json
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.dll
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.pdb
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.csproj.AssemblyReference.cache
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.AssemblyInfoInputs.cache
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.AssemblyInfo.cs
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.csproj.CoreCompileInputs.cache
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.RazorAssemblyInfo.cache
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.RazorAssemblyInfo.cs
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\scopedcss\bundle\ShoppingListApp.styles.css
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\Shopping.7AC1BA92.Up2Date
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.dll
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\refint\ShoppingListApp.dll
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.pdb
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.genruntimeconfig.cache
+D:\Задания практика (КПиЯП)\Tema19\ShoppingListApp\obj\Debug\net8.0\ref\ShoppingListApp.dll
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\bin\Debug\net8.0\appsettings.Development.json
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\bin\Debug\net8.0\appsettings.json
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.staticwebassets.endpoints.json
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.exe
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.deps.json
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.runtimeconfig.json
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.dll
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.pdb
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.csproj.AssemblyReference.cache
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.AssemblyInfoInputs.cache
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.AssemblyInfo.cs
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.csproj.CoreCompileInputs.cache
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.MvcApplicationPartsAssemblyInfo.cs
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.RazorAssemblyInfo.cache
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.RazorAssemblyInfo.cs
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\scopedcss\bundle\ShoppingListApp.styles.css
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.build.json
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.development.json
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\swae.build.ex.cache
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\Shopping.7AC1BA92.Up2Date
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.dll
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\refint\ShoppingListApp.dll
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.pdb
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.genruntimeconfig.cache
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\ref\ShoppingListApp.dll
+F:\Практика КПиЯП\Tema19\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\appsettings.Development.json
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.staticwebassets.endpoints.json
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\appsettings.json
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.exe
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.deps.json
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.runtimeconfig.json
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.pdb
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.csproj.AssemblyReference.cache
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.GeneratedMSBuildEditorConfig.editorconfig
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.AssemblyInfoInputs.cache
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.AssemblyInfo.cs
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.csproj.CoreCompileInputs.cache
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.MvcApplicationPartsAssemblyInfo.cs
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.MvcApplicationPartsAssemblyInfo.cache
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.RazorAssemblyInfo.cache
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.RazorAssemblyInfo.cs
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\scopedcss\bundle\ShoppingListApp.styles.css
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.build.json
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.development.json
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\swae.build.ex.cache
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\Shopping.7AC1BA92.Up2Date
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\refint\ShoppingListApp.dll
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.pdb
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.genruntimeconfig.cache
+f:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\ref\ShoppingListApp.dll
+F:\Практика КПиЯП\Tema20\Tema19\ShoppingListApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\appsettings.json
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.staticwebassets.endpoints.json
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.exe
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.deps.json
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.runtimeconfig.json
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\ShoppingListApp.pdb
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Tema21\ShoppingListApp\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.csproj.AssemblyReference.cache
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.AssemblyInfoInputs.cache
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.AssemblyInfo.cs
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.csproj.CoreCompileInputs.cache
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.RazorAssemblyInfo.cache
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.RazorAssemblyInfo.cs
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\scopedcss\bundle\ShoppingListApp.styles.css
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\Shopping.7AC1BA92.Up2Date
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.dll
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\refint\ShoppingListApp.dll
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.pdb
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\ShoppingListApp.genruntimeconfig.cache
+D:\Tema21\ShoppingListApp\obj\Debug\net8.0\ref\ShoppingListApp.dll
